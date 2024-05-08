@@ -10,6 +10,7 @@ The aim of this project is to analyze the demographic and performance data of Ol
 4. **Visualization**: Create visualizations using Power BI to effectively communicate the findings and trends in the data.
 5. **Statistical Analysis**: Perform statistical tests to validate hypotheses and uncover significant patterns.
 6. **Dashboard Creation**: Develop interactive dashboards in Power BI to provide users with intuitive access to the insights generated from the analysis.
+7. **Data Storytelling**: Develop a story for all the insights generated in the report page.
 
 ## Skills Applied
 - Data Cleaning and Preprocessing 🧹
