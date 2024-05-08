@@ -43,7 +43,7 @@ The aim of this project is to analyze the demographic and performance data of Ol
 
 ![Athlete Analysis Report](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-1.jpg)
 
-![Country and Season Demography Analysis] (https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-2.jpg)
+![Country and Season Demography Analysis](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-2.jpg)
 
 ![Game and Team Analysis](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-3.jpg)
 
@@ -52,7 +52,7 @@ The aim of this project is to analyze the demographic and performance data of Ol
 Total Athletes: 271,000
 Percentage of Males: 72.5%
 Percentage of Females: 27.5%
-Number of Represented Cities, Events, Sports, and Teams
+Number of Represented Cities is 42, 765 Events, 66 Sports, 51 Games, and 1,003 Teams
 
 ### Country Analysis:
 
