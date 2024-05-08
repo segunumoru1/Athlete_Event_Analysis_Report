@@ -41,6 +41,6 @@ The aim of this project is to analyze the demographic and performance data of Ol
 
 ![Dashboard Design](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-0.jpg)
 
-
+![Athlete Analysis Report](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-1.jpg)
 
 
