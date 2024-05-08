@@ -39,5 +39,8 @@ The aim of this project is to analyze the demographic and performance data of Ol
 - **Event**: Event
 - **Medal**: Gold, Silver, Bronze, or NA
 
+![Dashboard Design](https://github.com/segunumoru1/Athlete_Event_Dashboard_Report/blob/main/Athelete_Event_Dashboard_Report-images-0.jpg)
+
+
 
 
